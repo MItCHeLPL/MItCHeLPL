@@ -16,7 +16,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          filename: 'stats.svg'
           user: mitchelpl
           template: classic
           base: activity, community, repositories
@@ -25,5 +24,6 @@ jobs:
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_from: 200
+          plugin_habits_trim: yes
           plugin_lines: yes
           repositories_forks: yes
