@@ -117,7 +117,7 @@
 
 <h2 align="center">Statistics</h2>
 
-<img width=400 src="https://github.com/mitchelpl/mmitchelpl/blob/main/stats.svg" alt="stats" align="right" /> 
+<img width=400 src="https://raw.githubusercontent.com/MItCHeLPL/MItCHeLPL/main/stats.svg" alt="stats" align="right" /> 
 
 <p align="left">
 <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs?username=mitchelpl&langs_count=8&show_icons=true&locale=en&layout=compact&card_width=350&border_radius=5&bg_color=0D1117&text_color=FFFFFF&hide_border=true&title_color=FFFFFF" alt="most_used_lang" /><br/>
@@ -129,5 +129,5 @@
 
 <details>
   <summary align="center"><font size=5>Other statistics</font></summary><br/>
-  <img src="https://github.com/mitchelpl/mmitchelpl/blob/main/github-metrics.svg" alt="metrics" /> 
+  <img src="https://raw.githubusercontent.com/MItCHeLPL/MItCHeLPL/main/github-metrics.svg" alt="metrics" /> 
 </details>
