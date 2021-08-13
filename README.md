@@ -2,7 +2,7 @@
 <h3 align="center">I currently study Programming of games and mobile applications at University of Economics in Katowice, Poland</h3>
 
 <h2 align="center">Languages and Tools:</h2>
-<table align="center" style="background-color: #0D1117">
+<table align="center">
   <tr>
     <td align="center" width="40" height="40">
       <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
@@ -82,7 +82,7 @@
 </table>
 
 <h2 align="center">Connect with me:</h2>
-<table align="center"  style="background-color: #0D1117">
+<table align="center">
   <tr>
     <td align="center" height="40" width="40">
       <a href="https://twitter.com/michalmyszor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/michalmyszor" width="40" height="40" /></a>
@@ -117,7 +117,7 @@
 
 <hr>
 
-<img width=400 src="https://metrics.lecoq.io/mitchelpl?template=classic&repositories.forks=true&base.header=0&base.metadata=0&lines=1&config.timezone=Europe%2FWarsaw" alt="stats" align="right"  /> 
+<img width=400 src="https://metrics.lecoq.io/mitchelpl?template=classic&repositories.forks=true&base.header=0&base.metadata=0&lines=1&config.timezone=Europe%2FWarsaw" alt="stats" align="right" /> 
 
 <p align="left">
 <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs?username=mitchelpl&langs_count=8&show_icons=true&locale=en&layout=compact&card_width=350&border_radius=5&bg_color=0D1117&text_color=FFFFFF&hide_border=true&title_color=FFFFFF" alt="most_used_lang" /><br/>
