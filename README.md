@@ -85,31 +85,31 @@
 <table align="center">
   <tr>
     <td align="center" height="40" width="40">
-      <a href="https://twitter.com/michalmyszor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/michalmyszor" /></a>
+      <a href="https://twitter.com/michalmyszor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/michalmyszor" width="40" height="40" /></a>
       <br>Twitter
     </td>
     <td align="center" height="40" width="40">
-      <a href="https://www.linkedin.com/in/micha%c5%82-myszor-51a1451b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/micha%c5%82-myszor-51a1451b5/" /></a>
+      <a href="https://www.linkedin.com/in/micha%c5%82-myszor-51a1451b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/micha%c5%82-myszor-51a1451b5/" width="40" height="40" /></a>
       <br>LinkedIn
     </td>
     <td align="center" height="40" width="40">
-      <a href="https://stackoverflow.com/users/11334888/mitchel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/11334888/mitchel" /></a>
+      <a href="https://stackoverflow.com/users/11334888/mitchel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/11334888/mitchel" width="40" height="40" /></a>
       <br>StackOverflow
     </td>
     <td align="center" height="40" width="40">
-      <a href="https://www.facebook.com/mitchelpl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mitchelpl" /></a>
+      <a href="https://www.facebook.com/mitchelpl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mitchelpl" width="40" height="40" /></a>
       <br>Facebook
     </td>
     <td align="center" height="40" width="40">
-      <a href="https://www.instagram.com/michal.myszor/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/michal.myszor/" /></a>
+      <a href="https://www.instagram.com/michal.myszor/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/michal.myszor/" width="40" height="40" /></a>
       <br>Instagram
     </td>
     <td align="center" height="40" width="40">
-      <a href="https://www.youtube.com/channel/UCDzVuoDMjFwrn7hnCUk8zhA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCDzVuoDMjFwrn7hnCUk8zhA" /></a>
+      <a href="https://www.youtube.com/channel/UCDzVuoDMjFwrn7hnCUk8zhA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCDzVuoDMjFwrn7hnCUk8zhA" width="40" height="40" /></a>
       <br>YouTube
     </td>
     <td align="center" height="40" width="40">
-      <a href="https://discord.gg/M!tCHeL#8618" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/M!tCHeL#8618" /></a>
+      <a href="https://discord.gg/M!tCHeL#8618" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/M!tCHeL#8618" width="40" height="40" /></a>
       <br>Discord
     </td>
   </tr>
