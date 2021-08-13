@@ -57,7 +57,7 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 4
           plugin_traffic: yes
-		  
-		  extras_css: |
-			  div.field { color: white !important; }
-			  h2.field { color: white !important; }
+#		  
+#		  extras_css: |
+#			  div.field { color: white !important; }
+#			  h2.field { color: white !important; }
