@@ -32,12 +32,6 @@ jobs:
           plugin_activity_load: 300
           plugin_activity_timestamps: yes
           plugin_activity_visibility: all
-          plugin_contributors: yes
-          plugin_contributors_categories: {"📚 Documentation": ["README.md", "docs/**"], "💻 Code": ["source/**", "src/**"], "#️⃣ Others": ["*"]}
-          plugin_contributors_contributions: yes
-          plugin_contributors_head: master
-          plugin_contributors_ignored: github-actions[bot], dependabot[bot], dependabot-preview[bot]
-          plugin_contributors_sections: contributors
           plugin_licenses: yes
           plugin_licenses_legal: yes
           plugin_licenses_ratio: yes
@@ -50,7 +44,7 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 5
           plugin_traffic: yes
-          repositories_forks: yes		  
+          repositories_forks: yes
 #		  extras_css: |
 #			  div.field { color: white !important; }
 #			  h2.field { color: white !important; }
