@@ -115,9 +115,8 @@
   </tr>
 </table>
 
-<hr>
+<h2 align="center">Statistics</h2>
 
-<!-- <img width=400 src="https://metrics.lecoq.io/mitchelpl?template=classic&repositories.forks=true&base.header=0&base.metadata=0&lines=1&config.timezone=Europe%2FWarsaw" alt="stats" align="right" /> -->
 <img width=400 src="stats.svg" alt="stats" align="right" /> 
 
 <p align="left">
@@ -129,6 +128,6 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&bg_color=0D1117&color=FFFFFF&line=777777&point=FFFFFF&hide_border=true&custom_title=Contribution%20Graph&area=true&area_color=777777" alt="contribution_graph" /><br/>
 
 <details>
-  <summary>Other stats</summary><br/>
+  <summary align="center"><font size=5>Other statistics</font></summary><br/>
   <img src="github-metrics.svg" alt="metrics" /> 
 </details>
