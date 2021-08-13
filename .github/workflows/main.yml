@@ -10,7 +10,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@master
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
@@ -33,11 +33,7 @@ jobs:
           plugin_activity_timestamps: yes
           plugin_activity_visibility: all
           plugin_contributors: yes
-          plugin_contributors_categories: {
-              "📚 Documentation": ["README.md", "docs/**"],
-              "💻 Code": ["source/**", "src/**"],
-              "#️⃣ Others": ["*"]
-          }
+          plugin_contributors_categories: {"📚 Documentation": ["README.md", "docs/**"], "💻 Code": ["source/**", "src/**"], "#️⃣ Others": ["*"]}
           plugin_contributors_contributions: yes
           plugin_contributors_head: master
           plugin_contributors_ignored: github-actions[bot], dependabot[bot], dependabot-preview[bot]
