@@ -16,14 +16,15 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
+          filename: 'stats.svg'
           user: mitchelpl
           template: classic
           base: activity, community, repositories
           config_timezone: Europe/Warsaw
+          plugin_lines: yes
           plugin_habits: yes
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_from: 200
           plugin_habits_trim: yes
-          plugin_lines: yes
           repositories_forks: yes
