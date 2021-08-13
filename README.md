@@ -40,10 +40,6 @@
       <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
       <br>Git
     </td>
-    <td align="center" >
-      <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /> </a>
-      <br>AWS
-    </td>
   </tr>
   <tr>
     <td align="center" width="40" height="40">
@@ -71,20 +67,16 @@
       <br>Adobe&nbsp;Photoshop
     </td>
     <td align="center" width="40" height="40">
-      <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /> </a>
-      <br>Bash
-    </td>
-    <td align="center" width="40" height="40">
-      <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
-      <br>Linux
-    </td>
-    <td align="center" width="40" height="40">
       <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
       <br>MySQL
     </td>
     <td align="center"  width="40" height="40">
       <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" /> </a>
       <br>MsSQL
+    </td>
+    <td align="center" >
+      <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /> </a>
+      <br>AWS
     </td>
   </tr>
 </table>
@@ -113,7 +105,7 @@
       <br>Instagram
     </td>
     <td align="center" height="40" width="40">
-      <a href="https://www.youtube.com/channel/ucdzvuodmjfwrn7hncuk8zha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucdzvuodmjfwrn7hncuk8zha" /></a>
+      <a href="https://www.youtube.com/channel/UCDzVuoDMjFwrn7hnCUk8zhA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCDzVuoDMjFwrn7hnCUk8zhA" /></a>
       <br>YouTube
     </td>
     <td align="center" height="40" width="40">
