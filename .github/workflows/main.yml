@@ -19,7 +19,7 @@ jobs:
           user: mitchelpl
           template: classic
           base: ""
-          config_display: columns
+          config_display: large
           config_timezone: Europe/Warsaw
           plugin_achievements: yes
           plugin_achievements_secrets: yes
