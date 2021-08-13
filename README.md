@@ -21,17 +21,17 @@
 
 <hr>
 
-<img width=420 src="https://metrics.lecoq.io/mitchelpl?template=classic&repositories.forks=true&base.header=0&base.metadata=0&lines=1&config.timezone=Europe%2FWarsaw" alt="stats" align="right" /> 
+<img width=400 src="https://metrics.lecoq.io/mitchelpl?template=classic&repositories.forks=true&base.header=0&base.metadata=0&lines=1&config.timezone=Europe%2FWarsaw" alt="stats" align="right" /> 
 
 <p align="left">
-<img width=420 src="https://github-readme-stats.vercel.app/api/top-langs?username=mitchelpl&langs_count=8&show_icons=true&locale=en&layout=compact&card_width=350&border_radius=5&bg_color=0D1117&text_color=FFFFFF&hide_border=true&title_color=FFFFFF" alt="most_used_lang" /><br/>
+<img width=400 src="https://github-readme-stats.vercel.app/api/top-langs?username=mitchelpl&langs_count=8&show_icons=true&locale=en&layout=compact&card_width=350&border_radius=5&bg_color=0D1117&text_color=FFFFFF&hide_border=true&title_color=FFFFFF" alt="most_used_lang" /><br/>
 
-<img  width=420 src="http://github-readme-streak-stats.herokuapp.com?user=mitchelpl&theme=dark&hide_border=true&background=0D1117&stroke=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&dates=777777&sideLabels=FFFFFF" alt="streak_stats" /><br>
+<img  width=400 src="http://github-readme-streak-stats.herokuapp.com?user=mitchelpl&theme=dark&hide_border=true&background=0D1117&stroke=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&dates=777777&sideLabels=FFFFFF" alt="streak_stats" /><br>
 </p>
  
 <img src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&bg_color=0D1117&color=FFFFFF&line=777777&point=FFFFFF&hide_border=true&custom_title=Contribution%20Graph&area=true&area_color=777777" alt="contribution_graph" /><br/>
 
 <details>
   <summary>Other stats</summary><br/>
-  <img src="https://github.com/mitchelpl/mitchelpl/blob/main/github-metrics.svg" alt="stats" /> 
+  <img src="github-metrics.svg" alt="stats" /> 
 </details>
