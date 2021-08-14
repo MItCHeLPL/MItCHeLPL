@@ -38,7 +38,7 @@ jobs:
             h2:first-of-type, h2.field:first-of-type { 
               margin-top: 18px !important;
             }
-            div:last-child, div.field:last-child { 
+            div:last-child { 
               margin-bottom: 5px !important;
             }
           config_timezone: Europe/Warsaw

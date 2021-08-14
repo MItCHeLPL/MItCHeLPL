@@ -36,7 +36,7 @@ jobs:
             h2:first-of-type, h2.field:first-of-type { 
               margin-top: 10px !important;
             }
-            div:last-child, div.field:last-child { 
+            # div:last-child { 
               margin-bottom: 5px !important;
             }
           config_display: large
@@ -64,7 +64,8 @@ jobs:
           plugin_wakatime_days: 365
           plugin_wakatime_limit: 5
           plugin_wakatime_sections: time, projects, projects-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }
           plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: current
+          plugin_wakatime_user: .user.login
           repositories_forks: yes
           config_order: wakatime, people, achievements, activity, stars
