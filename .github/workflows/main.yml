@@ -34,7 +34,10 @@ jobs:
               margin-top: 30px !important;
             }
             h2:first-of-type, h2.field:first-of-type { 
-              margin-top: 5px !important;
+              margin-top: 16px !important;
+            }
+            div *:last-child, div.field *:last-child { 
+              margin-bottom: 5px !important;
             }
           config_display: large
           config_timezone: Europe/Warsaw
