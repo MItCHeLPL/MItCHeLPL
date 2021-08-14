@@ -26,7 +26,7 @@
       <br>C++
     </td>
     <td align="center" width="40" height="40">
-      <a href="#macropower-tech" > <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/lightroom-cc.svg" alt="lightroom" width="40" height="40" /> </a>
+      <a href="https://www.adobe.com/products/photoshop-lightroom.html" > <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/lightroom-cc.svg" alt="lightroom" width="40" height="40" /> </a>
       <br>Lightroom
     </td>
     <td align="center" width="40" height="40">
@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td align="center" width="40" height="40"> 
-      <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
+      <a href="https://html.spec.whatwg.org/multipage/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
       <br>HTML5
     </td>
     <td align="center" width="40" height="40">
