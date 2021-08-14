@@ -23,17 +23,17 @@ jobs:
             *, div, div.field { 
               color: #FFFFFFFF !important;
               background-color: #0D1117FF !important;
-              font-size: 20px !important;
+              font-size: 18px !important;
             }
             h2, h2.field { 
               color: #FFFFFFFF !important;
               background-color: #0D1117FF !important;
               font-weight: bold !important;
-              font-size: 27px !important;
-              margin-bottom: 5px !important;
-              margin-top: 20px !important;
+              font-size: 25px !important;
+              margin-bottom: 8px !important;
+              margin-top: 50px !important;
             }
-          config_display: columns
+          config_display: large
           config_timezone: Europe/Warsaw
           plugin_achievements: yes
           plugin_achievements_limit: 12
