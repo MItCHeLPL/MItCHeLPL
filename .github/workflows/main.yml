@@ -16,6 +16,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
+          filename: 'more.svg'
           user: mitchelpl
           template: classic
           base: ""
