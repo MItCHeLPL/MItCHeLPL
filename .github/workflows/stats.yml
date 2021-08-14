@@ -30,7 +30,7 @@ jobs:
               background-color: #0D1117FF !important;
               font-weight: bold !important;
               font-size: 23px !important;
-              margin-bottom: 15px !important;
+              margin-bottom: 12px !important;
             }
             h2:first-of-type, h2.field:first-of-type { 
               margin-top: 20px !important;
