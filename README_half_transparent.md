@@ -74,29 +74,29 @@
 </p>
 
 <h2>Statistics</h2>
-<img align="right" width=47% src="stats_dark.svg" alt="stats" />
+<img align="right" width=47% src="stats_half_transparent.svg" alt="stats" />
 
 <p align="left">
-  <img width=47% src="https://github-readme-stats.vercel.app/api/top-langs?username=mitchelpl&langs_count=10&show_icons=true&locale=en&layout=compact&card_width=350&bg_color=0D1117&text_color=FFFFFF&hide_border=true&title_color=FFFFFF" alt="most_used_lang" />
+  <img width=47% src="https://github-readme-stats.vercel.app/api/top-langs?username=mitchelpl&langs_count=10&show_icons=true&locale=en&layout=compact&card_width=350&bg_color=77777735&text_color=777777&hide_border=true&title_color=777777" alt="most_used_lang" />
 
-  <img width=47% src="https://github-readme-stats.vercel.app/api/wakatime?username=MItCHeL&layout=compact&card_width=350&bg_color=0D1117&text_color=FFFF&hide_border=true&title_color=FFFFFF&custom_title=Time%20Spent%20On%20Each%20Language%20In%20Last%207%20Days&langs_count=10" alt="wakatime" />
+  <img width=47% src="https://github-readme-stats.vercel.app/api/wakatime?username=MItCHeL&layout=compact&card_width=350&bg_color=77777735&text_color=777777&hide_border=true&title_color=777777&custom_title=Time%20Spent%20On%20Each%20Language%20In%20Last%207%20Days&langs_count=10" alt="wakatime" />
 
-  <img width=47% src="http://github-readme-streak-stats.herokuapp.com?user=mitchelpl&theme=dark&hide_border=true&background=0D1117&stroke=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&dates=777777&sideLabels=FFFFFF" alt="streak_stats" />
+  <img width=47% src="http://github-readme-streak-stats.herokuapp.com?user=mitchelpl&theme=light&hide_border=true&background=77777735&stroke=777777&currStreakNum=777777&sideNums=777777&currStreakLabel=777777&dates=353535&sideLabels=777777" alt="streak_stats" />
 </p>
 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=mitchelpl&bg_color=0D1117&color=FFFFFF&line=777777&point=FFFFFF&hide_border=true&custom_title=Contribution%20Graph&area=true&area_color=777777" alt="contribution_graph" width=100% /><br/>
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=mitchelpl&bg_color=77777735&color=777777&line=353535&point=777777&hide_border=true&custom_title=Contribution%20Graph&area=true&area_color=353535" alt="contribution_graph" width=100% /><br/>
 
 <details>
   <summary align="center">More</summary><br/>
-  <img align="center" src="more_stats_dark.svg" alt="more stats" width="100%" /> 
+  <img align="center" src="more_stats_half_transparent.svg" alt="more stats" width="100%" /> 
 </details>
 
 <h2 align="left">More Pinned Repositories</h2>
 <p>
-  <a href="https://github.com/MItCHeLPL/MItCHeL-Toolkit"><img src="https://github-readme-stats.vercel.app/api/pin?username=MItCHeLPL&repo=MItCHeL-Toolkit&border_radius=5&bg_color=0D1117&text_color=8B949E" alt="MItCHeL-Toolkit" /></a>
-  <a href="https://github.com/MItCHeLPL/Arrabal-Internship"><img src="https://github-readme-stats.vercel.app/api/pin?username=MItCHeLPL&repo=Arrabal-Internship&border_radius=5&bg_color=0D1117&text_color=8B949E" alt="MItCHeL-Toolkit" align="right" /></a>
+  <a href="https://github.com/MItCHeLPL/MItCHeL-Toolkit"><img src="https://github-readme-stats.vercel.app/api/pin?username=MItCHeLPL&repo=MItCHeL-Toolkit&border_radius=5&bg_color=FFFFFF00&text_color=777777" alt="MItCHeL-Toolkit" /></a>
+  <a href="https://github.com/MItCHeLPL/Arrabal-Internship"><img src="https://github-readme-stats.vercel.app/api/pin?username=MItCHeLPL&repo=Arrabal-Internship&border_radius=5&bg_color=FFFFFF00&text_color=777777" alt="MItCHeL-Toolkit" align="right" /></a>
 </p>
 <p>
-  <a href="https://github.com/MItCHeLPL/Rainmeter-Simple-Spotify-Control"><img src="https://github-readme-stats.vercel.app/api/pin?username=MItCHeLPL&repo=Rainmeter-Simple-Spotify-Control&border_radius=5&bg_color=0D1117&text_color=8B949E" alt="MItCHeL-Toolkit"/></a>
-  <a href="https://github.com/MItCHeLPL/Rainmeter-Info-Skin"><img src="https://github-readme-stats.vercel.app/api/pin?username=MItCHeLPL&repo=Rainmeter-Info-Skin&border_radius=5&bg_color=0D1117&text_color=8B949E" alt="MItCHeL-Toolkit" align="right" /></a>
+  <a href="https://github.com/MItCHeLPL/Rainmeter-Simple-Spotify-Control"><img src="https://github-readme-stats.vercel.app/api/pin?username=MItCHeLPL&repo=Rainmeter-Simple-Spotify-Control&border_radius=5&bg_color=FFFFFF00&text_color=777777" alt="MItCHeL-Toolkit"/></a>
+  <a href="https://github.com/MItCHeLPL/Rainmeter-Info-Skin"><img src="https://github-readme-stats.vercel.app/api/pin?username=MItCHeLPL&repo=Rainmeter-Info-Skin&border_radius=5&bg_color=FFFFFF00&text_color=777777" alt="MItCHeL-Toolkit" align="right" /></a>
 </p>

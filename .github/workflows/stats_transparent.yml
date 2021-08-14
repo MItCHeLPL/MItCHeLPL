@@ -1,0 +1,51 @@
+# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
+name: Stats
+on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@master
+        with:
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          filename: 'stats_transparent.svg'
+          user: mitchelpl
+          template: classic
+          base: activity, community, repositories
+          extras_css: |
+            div:last-of-type, div.field:last-of-type { 
+              margin-bottom: 55px !important;
+            }
+            *, div, div.field { 
+              color: ##777777FF !important;
+              background-color: #FFFFFF00 !important;
+            }
+            h2, h2.field { 
+              color: ##777777FF !important;
+              background-color: #FFFFFF00 !important;
+              font-weight: bold !important;
+              font-size: 23px !important;
+              margin-bottom: 8px !important;
+            }
+            h2:first-of-type, h2.field:first-of-type { 
+              margin-top: 20px !important;
+            }
+            div:last-child { 
+              margin-bottom: 5px !important;
+            }
+          config_timezone: Europe/Warsaw
+          plugin_lines: yes
+          plugin_habits: yes
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          plugin_habits_trim: yes
+          repositories_forks: yes

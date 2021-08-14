@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          filename: 'stats.svg'
+          filename: 'stats_light.svg'
           user: mitchelpl
           template: classic
           base: activity, community, repositories
@@ -25,12 +25,12 @@ jobs:
               margin-bottom: 55px !important;
             }
             *, div, div.field { 
-              color: #FFFFFFFF !important;
-              background-color: #0D1117FF !important;
+              color: #000000FF !important;
+              background-color: #FFFFFFFF !important;
             }
             h2, h2.field { 
-              color: #FFFFFFFF !important;
-              background-color: #0D1117FF !important;
+              color: #000000FF !important;
+              background-color: #FFFFFFFF !important;
               font-weight: bold !important;
               font-size: 23px !important;
               margin-bottom: 8px !important;
