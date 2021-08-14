@@ -23,13 +23,13 @@ jobs:
             *, div, div.field { 
               color: #FFFFFFFF !important;
               background-color: #0D1117FF !important;
-              font-size: 10px !important;
+              font-size: 17px !important;
             }
             h2, h2.field { 
               color: #FFFFFFFF !important;
               background-color: #0D1117FF !important;
               font-weight: bold !important;
-              font-size: 15px !important;
+              font-size: 25px !important;
             }
           config_display: large
           config_timezone: Europe/Warsaw
