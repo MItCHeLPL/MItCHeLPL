@@ -23,7 +23,7 @@ jobs:
             *, div, div.field { 
               color: #FFFFFFFF !important;
               background-color: #0D1117FF !important;
-              font-size: 18px !important;
+              font-size: 20px !important;
             }
             h2, h2.field { 
               color: #FFFFFFFF !important;
@@ -31,7 +31,7 @@ jobs:
               font-weight: bold !important;
               font-size: 25px !important;
               margin-bottom: 8px !important;
-              margin-top: 50px !important;
+              margin-top: 30px !important;
             }
           config_display: large
           config_timezone: Europe/Warsaw
