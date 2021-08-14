@@ -34,7 +34,7 @@ jobs:
               font-weight: bold !important;
               font-size: 20px !important;
               margin-bottom: 15px !important;
-              margin-top: 30px !important;
+              margin-top: 50px !important;
             }
           config_display: large
           config_timezone: Europe/Warsaw
@@ -58,11 +58,11 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 4
           plugin_wakatime: yes
-          plugin_wakatime_days: 365
+          plugin_wakatime_days: 7
           plugin_wakatime_limit: 5
           plugin_wakatime_sections: time, projects, projects-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: current
+          plugin_wakatime_url: https://wakatime.dev
+          plugin_wakatime_user: MItCHeL
           repositories_forks: yes
           config_order: wakatime, people, achievements, activity, stars
