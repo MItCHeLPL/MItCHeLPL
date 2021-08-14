@@ -1,5 +1,6 @@
-<h1 align="center">Hi! I'm Michał Myszor</h1>
-<h3 align="center">I currently study Programming of games and mobile applications at <a href="https://www.ue.katowice.pl/en.html">University of Economics in Katowice</a>, Poland</h3>
+<h1 align="center">👋Hi! I'm Michał Myszor</h1>
+
+<h3 align="center">I am a "Programming of games and mobile applications" student at the <a href="https://www.ue.katowice.pl/en.html">University of Economics in Katowice</a>, Poland</h3>
 
 <h2 align="center">Languages and Tools:</h2>
 <table align="center">
