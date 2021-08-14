@@ -20,9 +20,6 @@ jobs:
           template: classic
           base: ""
           extras_css: |
-            *{ 
-              margin-bottom: 30px !important;
-            }
             *, div, div.field { 
               color: #FFFFFFFF !important;
               background-color: #0D1117FF !important;

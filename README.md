@@ -126,7 +126,7 @@
   <img align="right" width=47% src="http://github-readme-streak-stats.herokuapp.com?user=mitchelpl&theme=dark&hide_border=true&background=0D1117&stroke=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&dates=777777&sideLabels=FFFFFF" alt="streak_stats" />
 </p>
 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&bg_color=0D1117&color=FFFFFF&line=777777&point=FFFFFF&hide_border=true&custom_title=Contribution%20Graph&area=true&area_color=777777" alt="contribution_graph" width=100% /><br/>
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=mitchelpl&bg_color=0D1117&color=FFFFFF&line=777777&point=FFFFFF&hide_border=true&custom_title=Contribution%20Graph&area=true&area_color=777777" alt="contribution_graph" width=100% /><br/>
 
 <details>
   <summary align="center">More</summary><br/>
