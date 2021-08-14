@@ -20,17 +20,20 @@ jobs:
           template: classic
           base: ""
           extras_css: |
+            *{ 
+              margin-bottom: 30px !important;
+            }
             *, div, div.field { 
               color: #FFFFFFFF !important;
               background-color: #0D1117FF !important;
-              font-size: 20px !important;
+              font-size: 17px !important;
             }
             h2, h2.field { 
               color: #FFFFFFFF !important;
               background-color: #0D1117FF !important;
               font-weight: bold !important;
-              font-size: 25px !important;
-              margin-bottom: 8px !important;
+              font-size: 22px !important;
+              margin-bottom: 10px !important;
               margin-top: 30px !important;
             }
           config_display: large
