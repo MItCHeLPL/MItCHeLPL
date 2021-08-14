@@ -36,9 +36,6 @@ jobs:
             h2:first-of-type, h2.field:first-of-type { 
               margin-top: 10px !important;
             }
-            # div:last-child { 
-              margin-bottom: 5px !important;
-            }
           config_display: large
           config_timezone: Europe/Warsaw
           plugin_achievements: yes
@@ -66,6 +63,6 @@ jobs:
           plugin_wakatime_sections: time, projects, projects-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: .user.login
+          plugin_wakatime_user: current
           repositories_forks: yes
           config_order: wakatime, people, achievements, activity, stars
