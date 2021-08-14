@@ -62,7 +62,7 @@ jobs:
           plugin_wakatime_limit: 5
           plugin_wakatime_sections: time, projects, projects-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          plugin_wakatime_url: https://wakatime.dev
-          plugin_wakatime_user: MItCHeL
+          plugin_wakatime_url: https://wakatime.com
+          plugin_wakatime_user: current
           repositories_forks: yes
           config_order: wakatime, people, achievements, activity, stars
