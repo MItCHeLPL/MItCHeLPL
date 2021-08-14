@@ -20,9 +20,16 @@ jobs:
           template: classic
           base: ""
           extras_css: |
-            *, div, h2, div.field, h2.field { 
+            *, div, div.field { 
               color: #FFFFFFFF !important;
               background-color: #0D1117FF !important;
+              font-size: 10px !important;
+            }
+            h2, h2.field { 
+              color: #FFFFFFFF !important;
+              background-color: #0D1117FF !important;
+              font-weight: bold !important;
+              font-size: 15px !important;
             }
           config_display: large
           config_timezone: Europe/Warsaw
@@ -38,11 +45,11 @@ jobs:
           plugin_activity_timestamps: yes
           plugin_activity_visibility: all
           plugin_people: yes
-          plugin_people_limit: 30
+          plugin_people_limit: 28
           plugin_people_shuffle: yes
-          plugin_people_size: 24
+          plugin_people_size: 28
           plugin_people_thanks: Sheepposu, jedenastka
-          plugin_people_types: followers, following
+          plugin_people_types: followers, following, thanks
           plugin_stars: yes
           plugin_stars_limit: 5
           plugin_wakatime: yes
@@ -52,4 +59,4 @@ jobs:
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: current
           repositories_forks: yes
-          config_order: wakatime, people, activity, stars, achievements
+          config_order: wakatime, people, achievements, activity, stars
