@@ -122,7 +122,7 @@
 <p align="left">
   <img width=47% src="https://github-readme-stats.vercel.app/api/top-langs?username=mitchelpl&langs_count=10&show_icons=true&locale=en&layout=compact&card_width=350&bg_color=0D1117&text_color=FFFFFF&hide_border=true&title_color=FFFFFF" alt="most_used_lang" />
 
-  <img width=47% src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&card_width=350&bg_color=0D1117&text_color=FFFFFF&hide_border=true&title_color=FFFFFF&custom_title=Time%20Spent%20On%20Each%20Language%20In%20Last%207%20Days&langs_count=10&range=last_year" alt="wakatime" />
+  <img width=47% src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&card_width=350&bg_color=0D1117&text_color=FFFFFF&hide_border=true&title_color=FFFFFF&custom_title=Time%20Spent%20On%20Each%20Language%20In%20Last%207%20Days&langs_count=10" alt="wakatime" />
 
   <img width=47% src="http://github-readme-streak-stats.herokuapp.com?user=mitchelpl&theme=dark&hide_border=true&background=0D1117&stroke=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&dates=777777&sideLabels=FFFFFF" alt="streak_stats" />
 </p>
