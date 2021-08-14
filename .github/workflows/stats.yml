@@ -21,11 +21,10 @@ jobs:
           template: classic
           base: activity, community, repositories
           extras_css: |
-            h2 {
-              color: red;
+            *, div, h2, div.field, h2.field { 
+              color: #FFFFFFFF !important;
+              background-color: #0D1117FF !important;
             }
-            div.field { color: white !important; }
-            h2.field { color: blue !important; }
           config_timezone: Europe/Warsaw
           plugin_lines: yes
           plugin_habits: yes

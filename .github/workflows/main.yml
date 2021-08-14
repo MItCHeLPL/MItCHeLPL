@@ -20,12 +20,11 @@ jobs:
           template: classic
           base: ""
           extras_css: |
-            h2 {
-              color: red;
+            *, div, h2, div.field, h2.field { 
+              color: #FFFFFFFF !important;
+              background-color: #0D1117FF !important;
             }
-            div.field { color: white !important; }
-            h2.field { color: blue !important; }
-          config_display: columns
+          config_display: large
           config_timezone: Europe/Warsaw
           plugin_achievements: yes
           plugin_achievements_limit: 12
