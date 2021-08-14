@@ -20,19 +20,19 @@ jobs:
           template: classic
           base: ""
           extras_css: |
-            div:last-of-typ, div.field:last-of-type { 
+            div:last-of-type, div.field:last-of-type, div *:last-child, div.field *:last-child { 
               margin-bottom: 10px !important;
             }
             *, div, div.field { 
               color: #FFFFFFFF !important;
               background-color: #0D1117FF !important;
-              font-size: 17px !important;
+              font-size: 15px !important;
             }
             h2, h2.field { 
               color: #FFFFFFFF !important;
               background-color: #0D1117FF !important;
               font-weight: bold !important;
-              font-size: 22px !important;
+              font-size: 20px !important;
               margin-bottom: 10px !important;
               margin-top: 30px !important;
             }
@@ -56,7 +56,7 @@ jobs:
           plugin_people_thanks: Sheepposu, jedenastka
           plugin_people_types: followers, following, thanks
           plugin_stars: yes
-          plugin_stars_limit: 5
+          plugin_stars_limit: 4
           plugin_wakatime: yes
           plugin_wakatime_days: 365
           plugin_wakatime_limit: 5

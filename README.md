@@ -134,7 +134,7 @@
   <img align="center" src="github-metrics.svg" alt="metrics" width="100%" /> 
 </details>
 
-<h2 align="center">More Pinned Repositories</h2>
+<h2 align="left">More Pinned Repositories</h2>
 <p>
   <a href="https://github.com/MItCHeLPL/MItCHeL-Toolkit"><img src="https://github-readme-stats.vercel.app/api/pin?username=MItCHeLPL&repo=MItCHeL-Toolkit&border_radius=5&bg_color=0D1117&text_color=8B949E" alt="MItCHeL-Toolkit" /></a>
   <a href="https://github.com/MItCHeLPL/Arrabal-Internship"><img src="https://github-readme-stats.vercel.app/api/pin?username=MItCHeLPL&repo=Arrabal-Internship&border_radius=5&bg_color=0D1117&text_color=8B949E" alt="MItCHeL-Toolkit" align="right" /></a>

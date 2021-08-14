@@ -21,7 +21,7 @@ jobs:
           template: classic
           base: activity, community, repositories
           extras_css: |
-            div:last-of-typ, div.field:last-of-type { 
+            div:last-of-type, div.field:last-of-type { 
               margin-bottom: 30px !important;
             }
             *, div, div.field { 
