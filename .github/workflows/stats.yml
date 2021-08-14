@@ -24,13 +24,16 @@ jobs:
             *, div, div.field { 
               color: #FFFFFFFF !important;
               background-color: #0D1117FF !important;
-              border-radius: 5px !important;
             }
             h2, h2.field { 
               color: #FFFFFFFF !important;
               background-color: #0D1117FF !important;
               font-weight: bold !important;
-              font-size: 25px !important;
+              font-size: 27px !important;
+              margin-bottom: 5px !important;
+            }
+            h2:first-of-type, h2.field:first-of-type { 
+              margin-top: 20px !important;
             }
           config_timezone: Europe/Warsaw
           plugin_lines: yes

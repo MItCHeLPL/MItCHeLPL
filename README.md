@@ -116,22 +116,22 @@
 </table>
 
 <h2 align="center">Statistics</h2>
-
 <p align="center">
-  <img align="left" width=400 src="https://github-readme-stats.vercel.app/api/top-langs?username=mitchelpl&langs_count=10&show_icons=true&locale=en&layout=compact&card_width=350&border_radius=5&bg_color=0D1117&text_color=FFFFFF&hide_border=true&title_color=FFFFFF" alt="most_used_lang" />
+  <img align="left" width=50% src="https://github-readme-stats.vercel.app/api/top-langs?username=mitchelpl&langs_count=10&show_icons=true&locale=en&layout=compact&card_width=350&bg_color=0D1117&text_color=FFFFFF&hide_border=true&title_color=FFFFFF" alt="most_used_lang" />
 
-  <img align="right" width=400 src="https://raw.githubusercontent.com/MItCHeLPL/MItCHeLPL/main/stats.svg" alt="stats" />
+  <img align="right" width=50% src="stats.svg" alt="stats" />
 
-  <img align="left" width=400 src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&card_width=350&border_radius=5&bg_color=0D1117&text_color=FFFFFF&hide_border=true&title_color=FFFFFF&range=last_year&custom_title=Time%20Spent%20On%20Each%20Language" alt="wakatime" />
+  <img align="left" width=50% src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&card_width=350&bg_color=0D1117&text_color=FFFFFF&hide_border=true&title_color=FFFFFF&range=last_year&custom_title=Time%20Spent%20On%20Each%20Language" alt="wakatime" />
 
-  <img align="right" width=400 src="http://github-readme-streak-stats.herokuapp.com?user=mitchelpl&theme=dark&hide_border=true&background=0D1117&stroke=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&dates=777777&sideLabels=FFFFFF" alt="streak_stats" />
+  <h5 align="center" style="margin:0; padding-top:20px; background-color: #0D1117;">Commit Streak</h5>
+  <img align="right" width=50% src="http://github-readme-streak-stats.herokuapp.com?user=mitchelpl&theme=dark&hide_border=true&background=0D1117&stroke=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&dates=777777&sideLabels=FFFFFF" alt="streak_stats" />
 </p>
 
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&bg_color=0D1117&color=FFFFFF&line=777777&point=FFFFFF&hide_border=true&custom_title=Contribution%20Graph&area=true&area_color=777777" alt="contribution_graph" /><br/>
 
 <details>
   <summary align="center">More</summary><br/>
-  <img align="center" src="https://raw.githubusercontent.com/MItCHeLPL/MItCHeLPL/main/github-metrics.svg" alt="metrics" /> 
+  <img align="center" src="github-metrics.svg" alt="metrics" width="100%" /> 
 </details>
 
 <h2 align="center">More Pinned Repositories</h2>
