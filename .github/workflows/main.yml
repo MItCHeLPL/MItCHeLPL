@@ -20,7 +20,7 @@ jobs:
           template: classic
           base: ""
           extras_css: |
-            div:last-of-type, div.field:last-of-type, div *:last-child, div.field *:last-child { 
+            div *:last-child, div.field *:last-child { 
               margin-bottom: 10px !important;
             }
             *, div, div.field { 
