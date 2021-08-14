@@ -20,6 +20,9 @@ jobs:
           template: classic
           base: ""
           extras_css: |
+            h2:first-of-type, h2.field:first-of-type { 
+              margin-top: 10px !important;
+            }
             *, div, div.field { 
               color: #FFFFFFFF !important;
               background-color: #0D1117FF !important;
@@ -30,11 +33,8 @@ jobs:
               background-color: #0D1117FF !important;
               font-weight: bold !important;
               font-size: 20px !important;
-              margin-bottom: 10px !important;
+              margin-bottom: 15px !important;
               margin-top: 30px !important;
-            }
-            h2:first-of-type, h2.field:first-of-type { 
-              margin-top: 10px !important;
             }
           config_display: large
           config_timezone: Europe/Warsaw
@@ -45,7 +45,7 @@ jobs:
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
-          plugin_activity_limit: 5
+          plugin_activity_limit: 3
           plugin_activity_load: 300
           plugin_activity_timestamps: yes
           plugin_activity_visibility: all
@@ -56,7 +56,7 @@ jobs:
           plugin_people_thanks: Sheepposu, jedenastka
           plugin_people_types: followers, following, thanks
           plugin_stars: yes
-          plugin_stars_limit: 4
+          plugin_stars_limit: 3
           plugin_wakatime: yes
           plugin_wakatime_days: 365
           plugin_wakatime_limit: 5

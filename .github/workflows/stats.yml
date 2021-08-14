@@ -22,7 +22,7 @@ jobs:
           base: activity, community, repositories
           extras_css: |
             div:last-of-type, div.field:last-of-type { 
-              margin-bottom: 40px !important;
+              margin-bottom: 50px !important;
             }
             *, div, div.field { 
               color: #FFFFFFFF !important;
@@ -36,7 +36,7 @@ jobs:
               margin-bottom: 8px !important;
             }
             h2:first-of-type, h2.field:first-of-type { 
-              margin-top: 18px !important;
+              margin-top: 20px !important;
             }
             div:last-child { 
               margin-bottom: 5px !important;
