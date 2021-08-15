@@ -72,3 +72,5 @@ jobs:
           plugin_wakatime_user: current
           repositories_forks: no
           config_order: wakatime, activity, people, achievements
+          repositories_affiliations: owner, collaborator
+          repositories_skipped: mitchelpl/mitchelpl
