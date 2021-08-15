@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: theory
+          user: mitchelpl
           template: classic
           config_gemoji: yes # use additional non-unicode emoji
           config_timezone: America/New_York
