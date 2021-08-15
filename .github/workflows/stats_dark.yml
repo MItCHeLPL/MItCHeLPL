@@ -22,8 +22,8 @@ jobs:
           config_gemoji: yes
           retries: 3
           retries_delay: 300
-          #use_prebuilt_image: yes
-          base: activity, community, repositories, habits
+          use_prebuilt_image: yes
+          base: activity, community, repositories
           extras_css: |
             div:last-of-type, div.field:last-of-type { 
               margin-bottom: 15px !important;
