@@ -93,10 +93,10 @@
 
 <h2 align="left">More Pinned Repositories</h2>
 <p>
-  <a href="https://github.com/MItCHeLPL/MItCHeL-Toolkit"><img src="https://github-readme-stats.vercel.app/api/pin?username=MItCHeLPL&repo=MItCHeL-Toolkit&border_radius=5&bg_color=FFFFFF00&text_color=777777" alt="MItCHeL-Toolkit" /></a>
-  <a href="https://github.com/MItCHeLPL/Arrabal-Internship"><img src="https://github-readme-stats.vercel.app/api/pin?username=MItCHeLPL&repo=Arrabal-Internship&border_radius=5&bg_color=FFFFFF00&text_color=777777" alt="MItCHeL-Toolkit" align="right" /></a>
+  <a href="https://github.com/MItCHeLPL/MItCHeL-Toolkit"><img src="https://github-readme-stats.vercel.app/api/pin?username=MItCHeLPL&repo=MItCHeL-Toolkit&border_radius=5&bg_color=77777735&text_color=777777" alt="MItCHeL-Toolkit" /></a>
+  <a href="https://github.com/MItCHeLPL/Arrabal-Internship"><img src="https://github-readme-stats.vercel.app/api/pin?username=MItCHeLPL&repo=Arrabal-Internship&border_radius=5&bg_color=77777735&text_color=777777" alt="MItCHeL-Toolkit" align="right" /></a>
 </p>
 <p>
-  <a href="https://github.com/MItCHeLPL/Rainmeter-Simple-Spotify-Control"><img src="https://github-readme-stats.vercel.app/api/pin?username=MItCHeLPL&repo=Rainmeter-Simple-Spotify-Control&border_radius=5&bg_color=FFFFFF00&text_color=777777" alt="MItCHeL-Toolkit"/></a>
-  <a href="https://github.com/MItCHeLPL/Rainmeter-Info-Skin"><img src="https://github-readme-stats.vercel.app/api/pin?username=MItCHeLPL&repo=Rainmeter-Info-Skin&border_radius=5&bg_color=FFFFFF00&text_color=777777" alt="MItCHeL-Toolkit" align="right" /></a>
+  <a href="https://github.com/MItCHeLPL/Rainmeter-Simple-Spotify-Control"><img src="https://github-readme-stats.vercel.app/api/pin?username=MItCHeLPL&repo=Rainmeter-Simple-Spotify-Control&border_radius=5&bg_color=77777735&text_color=777777" alt="MItCHeL-Toolkit"/></a>
+  <a href="https://github.com/MItCHeLPL/Rainmeter-Info-Skin"><img src="https://github-readme-stats.vercel.app/api/pin?username=MItCHeLPL&repo=Rainmeter-Info-Skin&border_radius=5&bg_color=77777735&text_color=777777" alt="MItCHeL-Toolkit" align="right" /></a>
 </p>

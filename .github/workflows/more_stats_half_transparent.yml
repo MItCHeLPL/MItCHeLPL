@@ -31,7 +31,7 @@ jobs:
             }
             h2, h2.field { 
               color: ##777777FF !important;
-              background-color: #77777735 !important;
+              background-color: #77777700 !important;
               font-weight: bold !important;
               font-size: 20px !important;
               margin-bottom: 15px !important;
