@@ -24,7 +24,6 @@ jobs:
           retries_delay: 300
           #use_prebuilt_image: yes
           base: activity, community, repositories
-          repositories_forks: no
           extras_css: |
             div:last-of-type, div.field:last-of-type { 
               margin-bottom: 15px !important;
@@ -52,4 +51,4 @@ jobs:
           plugin_habits_days: 90
           plugin_habits_facts: yes
           plugin_habits_from: 200
-          repositories_forks: yes
+          repositories_forks: no
