@@ -22,15 +22,15 @@ jobs:
           base: activity, community, repositories
           extras_css: |
             div:last-of-type, div.field:last-of-type { 
-              margin-bottom: 55px !important;
+              margin-bottom: 25px !important;
             }
             *, div, div.field { 
-              color: ##777777FF !important;
-              background-color: #777777FF !important;
+              color: #A5A5A5FF !important;
+              background-color: #353535FF !important;
             }
             h2, h2.field { 
-              color: ##777777FF !important;
-              background-color: #777777FF !important;
+              color: #A5A5A5FF !important;
+              background-color: #353535FF !important;
               font-weight: bold !important;
               font-size: 23px !important;
               margin-bottom: 8px !important;
@@ -45,6 +45,5 @@ jobs:
           plugin_lines: yes
           plugin_habits: yes
           plugin_habits_days: 14
-          plugin_habits_facts: yes
           plugin_habits_from: 200
           repositories_forks: yes
