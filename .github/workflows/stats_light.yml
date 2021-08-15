@@ -23,7 +23,7 @@ jobs:
           retries: 3
           retries_delay: 300
           #use_prebuilt_image: yes
-          base: activity, community, repositories
+          base: activity, community, repositories, habits
           extras_css: |
             div:last-of-type, div.field:last-of-type { 
               margin-bottom: 15px !important;
