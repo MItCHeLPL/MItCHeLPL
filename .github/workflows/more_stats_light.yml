@@ -10,7 +10,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@master
+      - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
@@ -19,6 +19,10 @@ jobs:
           filename: 'more_stats_light.svg'
           user: mitchelpl
           template: classic
+          config_gemoji: yes
+          retries: 3
+          retries_delay: 300
+          use_prebuilt_image: yes
           base: ""
           extras_css: |
             h2:first-of-type, h2.field:first-of-type { 

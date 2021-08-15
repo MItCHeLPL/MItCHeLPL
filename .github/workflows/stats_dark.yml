@@ -10,7 +10,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@master
+      - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
@@ -19,6 +19,10 @@ jobs:
           filename: 'stats_dark.svg'
           user: mitchelpl
           template: classic
+          config_gemoji: yes
+          retries: 3
+          retries_delay: 300
+          use_prebuilt_image: yes
           base: activity, community, repositories
           extras_css: |
             div:last-of-type, div.field:last-of-type { 
@@ -44,7 +48,7 @@ jobs:
           config_timezone: Europe/Warsaw
           plugin_lines: yes
           plugin_habits: yes
-          plugin_habits_days: 14
+          plugin_habits_days: 90
           plugin_habits_facts: yes
           plugin_habits_from: 200
           repositories_forks: yes
