@@ -26,11 +26,11 @@ jobs:
             }
             *, div, div.field { 
               color: ##777777FF !important;
-              background-color: #77777735 !important;
+              background-color: #777777FF !important;
             }
             h2, h2.field { 
               color: ##777777FF !important;
-              background-color: #77777700 !important;
+              background-color: #777777FF !important;
               font-weight: bold !important;
               font-size: 23px !important;
               margin-bottom: 8px !important;
@@ -47,5 +47,4 @@ jobs:
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_from: 200
-          plugin_habits_trim: yes
           repositories_forks: yes

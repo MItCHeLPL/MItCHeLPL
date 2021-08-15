@@ -56,14 +56,12 @@ jobs:
           plugin_people_size: 28
           plugin_people_thanks: Sheepposu, jedenastka
           plugin_people_types: followers, following, thanks
-          plugin_stars: yes
-          plugin_stars_limit: 4
           plugin_wakatime: yes
           plugin_wakatime_days: 7
           plugin_wakatime_limit: 5
-          plugin_wakatime_sections: time, projects, projects-graphs, editors, os
+          plugin_wakatime_sections: time, projects, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: current
           repositories_forks: yes
-          config_order: wakatime, people, achievements, activity, stars
+          config_order: wakatime, activity, people, achievements
