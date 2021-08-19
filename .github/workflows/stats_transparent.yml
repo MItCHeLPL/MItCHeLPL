@@ -26,7 +26,7 @@ jobs:
           base: activity, community, repositories
           extras_css: |
             div:last-of-type, div.field:last-of-type { 
-              margin-bottom: 15px !important;
+              margin-bottom: 10px !important;
             }
             *, div, div.field { 
               color: #777777FF !important;
