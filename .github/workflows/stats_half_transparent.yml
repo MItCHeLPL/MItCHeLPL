@@ -43,7 +43,7 @@ jobs:
               margin-bottom: 8px !important;
             }
             h2:first-of-type, h2.field:first-of-type { 
-              margin-top: 50px !important;
+              margin-top: 35px !important;
             }
             div:last-child { 
               margin-bottom: 5px !important;
