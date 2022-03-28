@@ -5,9 +5,8 @@
 <h2>Contact </h2>
 <p>
   <a href="https://www.linkedin.com/in/micha%c5%82-myszor-51a1451b5/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/11334888/mitchel"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
-  <a href="https://discord.gg/M!tCHeL#8618"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="mailto:mikemyszor@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.gg/M!tCHeL#8618"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://www.youtube.com/channel/UCDzVuoDMjFwrn7hnCUk8zhA"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://twitter.com/michalmyszor"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href=""><img alt="" src="" /></a>
