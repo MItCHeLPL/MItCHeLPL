@@ -1,6 +1,9 @@
 <h1>👋Hi! I'm Michał Myszor</h1>
 
-<h3>I am a "Programming of games and mobile applications" student at the <a href="https://www.ue.katowice.pl/en.html">University of Economics in Katowice</a>, Poland</h3>
+<h3>
+  • Unity Developer at <a href="https://takeitstudio.com/en/">Take IT Studio!</a><br />
+  • Programming of games and mobile applications student at <a href="https://www.ue.katowice.pl/en.html">University of Economics in Katowice</a>, Poland
+</h3>
 
 <h2>Contact </h2>
 <p>
@@ -95,10 +98,10 @@
 
 <h2 align="left">More Pinned Repositories</h2>
 <p>
-  <a href="https://github.com/MItCHeLPL/MItCHeL-Toolkit"><img src="https://github-readme-stats.vercel.app/api/pin?username=MItCHeLPL&repo=MItCHeL-Toolkit&border_radius=5&bg_color=0D1117&text_color=8B949E" alt="MItCHeL-Toolkit" /></a>
-  <a href="https://github.com/MItCHeLPL/Arrabal-Internship"><img src="https://github-readme-stats.vercel.app/api/pin?username=MItCHeLPL&repo=Arrabal-Internship&border_radius=5&bg_color=0D1117&text_color=8B949E" alt="MItCHeL-Toolkit" align="right" /></a>
+  <a href="https://github.com/MItCHeLPL/Discord-AISupBOT"><img src="https://github-readme-stats.vercel.app/api/pin?username=MItCHeLPL&repo=Discord-AISupBOT&border_radius=5&bg_color=0D1117&text_color=8B949E" alt="Discord-AISupBOT" /></a>
+  <a href="https://github.com/MItCHeLPL/MItCHeL-Toolkit"><img src="https://github-readme-stats.vercel.app/api/pin?username=MItCHeLPL&repo=MItCHeL-Toolkit&border_radius=5&bg_color=0D1117&text_color=8B949E" alt="MItCHeL-Toolkit" align="right" /></a>
 </p>
 <p>
-  <a href="https://github.com/MItCHeLPL/Rainmeter-Simple-Spotify-Control"><img src="https://github-readme-stats.vercel.app/api/pin?username=MItCHeLPL&repo=Rainmeter-Simple-Spotify-Control&border_radius=5&bg_color=0D1117&text_color=8B949E" alt="MItCHeL-Toolkit"/></a>
-  <a href="https://github.com/MItCHeLPL/Rainmeter-Info-Skin"><img src="https://github-readme-stats.vercel.app/api/pin?username=MItCHeLPL&repo=Rainmeter-Info-Skin&border_radius=5&bg_color=0D1117&text_color=8B949E" alt="MItCHeL-Toolkit" align="right" /></a>
+  <a href="https://github.com/MItCHeLPL/Arrabal-Internship"><img src="https://github-readme-stats.vercel.app/api/pin?username=MItCHeLPL&repo=Arrabal-Internship&border_radius=5&bg_color=0D1117&text_color=8B949E" alt="Arrabal-Internship" /></a>
+  <a href="https://github.com/MItCHeLPL/Rainmeter-Simple-Spotify-Control"><img src="https://github-readme-stats.vercel.app/api/pin?username=MItCHeLPL&repo=Rainmeter-Simple-Spotify-Control&border_radius=5&bg_color=0D1117&text_color=8B949E" alt="Rainmeter-Simple-Spotify-Control" align="right"/></a>
 </p>
