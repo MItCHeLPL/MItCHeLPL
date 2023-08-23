@@ -1,8 +1,7 @@
 <h1>👋Hi! I'm Michał Myszor</h1>
 
 <h3>
-  • Unity Developer at <a href="https://takeitstudio.com/en/">Take IT Studio!</a><br />
-  • Programming of games and mobile applications student at <a href="https://www.ue.katowice.pl/en.html">University of Economics in Katowice</a>, Poland
+  • Unity Developer at <a href="https://takeitstudio.com/en/">Take IT Studio!</a> in Katowice, Poland
 </h3>
 
 <h2>Contact </h2>
