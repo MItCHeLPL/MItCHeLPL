@@ -102,5 +102,5 @@
 </p>
 <p>
   <a href="https://github.com/MItCHeLPL/Arrabal-Internship"><img src="https://github-readme-stats.vercel.app/api/pin?username=MItCHeLPL&repo=Arrabal-Internship&border_radius=5&bg_color=0D1117&text_color=8B949E" alt="Arrabal-Internship" /></a>
-  <a href="https://github.com/MItCHeLPL/Rainmeter-Simple-Spotify-Control"><img src="https://github-readme-stats.vercel.app/api/pin?username=MItCHeLPL&repo=Rainmeter-Simple-Spotify-Control&border_radius=5&bg_color=0D1117&text_color=8B949E" alt="Rainmeter-Simple-Spotify-Control" align="right"/></a>
+  <a href="https://github.com/MItCHeLPL/Investing-Simulator"><img src="https://github-readme-stats.vercel.app/api/pin?username=MItCHeLPL&repo=Investing-Simulator&border_radius=5&bg_color=0D1117&text_color=8B949E" alt="Investing-Simulator" align="right"/></a>
 </p>
