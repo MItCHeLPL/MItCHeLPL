@@ -88,8 +88,6 @@
   <img width=47% src="http://github-readme-streak-stats.herokuapp.com?user=mitchelpl&theme=light&hide_border=true&background=FFFFFF00&stroke=777777&currStreakNum=777777&sideNums=777777&currStreakLabel=777777&dates=353535&sideLabels=777777" alt="streak_stats" />
 </p>
 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=mitchelpl&bg_color=FFFFFF00&color=777777&line=353535&point=777777&hide_border=true&custom_title=Contribution%20Graph&area=true&area_color=353535" alt="contribution_graph" width=100% /><br/>
-
 <details>
   <summary align="center">More</summary><br/>
   <img align="center" src="more_stats_transparent.svg" alt="more stats" width="100%" /> 
