@@ -1,7 +1,7 @@
 <h1>👋Hi! I'm Michał Myszor</h1>
 
 <h3>
-  • Unity Developer at <a href="https://takeitstudio.com/en/">Take IT Studio!</a> in Katowice, Poland
+  • Unity & Unreal Engine Developer at <a href="https://takeitstudio.com/en/">Take IT Studio!</a> in Katowice, Poland
 </h3>
 
 <h2>Contact </h2>
