@@ -60,7 +60,7 @@ jobs:
           plugin_people_size: 28
           plugin_people_thanks: Sheepposu, jedenastka
           plugin_people_types: followers, following, thanks
-          plugin_wakatime: yes
+          plugin_wakatime: no
           plugin_wakatime_days: 7
           plugin_wakatime_limit: 5
           plugin_wakatime_sections: time, editors, os
@@ -68,6 +68,6 @@ jobs:
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: current
           repositories_forks: no
-          config_order: wakatime, activity, people, achievements
+          config_order: activity, people, achievements
           repositories_affiliations: owner, collaborator
           repositories_skipped: mitchelpl/mitchelpl
