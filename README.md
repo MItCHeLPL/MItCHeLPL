@@ -76,19 +76,9 @@
 
 <h2>Statistics</h2>
 <p>
-  <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=mitchelpl&theme=light&hide_border=true&background=FFFFFF00&stroke=777777&currStreakNum=777777&sideNums=777777&currStreakLabel=777777&dates=353535&sideLabels=777777" alt="streak_stats" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=mitchelpl&theme=light&hide_border=true&background=FFFFFF00&stroke=777777&currStreakNum=777777&sideNums=777777&currStreakLabel=777777&dates=353535&sideLabels=777777" alt="streak_stats" />
 </p>
 
 <p>
   <img src="stats_transparent.svg" alt="stats" />
-</p>
-
-<h2 align="left">More Pinned Repositories</h2>
-<p>
-  <a href="https://github.com/MItCHeLPL/ASCII-Art-From-Image"><img src="https://github-readme-stats.vercel.app/api/pin?username=MItCHeLPL&repo=ASCII-Art-From-Image&border_radius=5&bg_color=FFFFFF00&text_color=777777" alt="ASCII-Art-From-Image" /></a>
-  <a href="https://github.com/MItCHeLPL/Progress-Bar-Generator"><img src="https://github-readme-stats.vercel.app/api/pin?username=MItCHeLPL&repo=Progress-Bar-Generator&border_radius=5&bg_color=FFFFFF00&text_color=777777" alt="Progress-Bar-Generator" align="right" /></a>
-</p>
-<p>
-  <a href="https://github.com/MItCHeLPL/Simple-Noise-Generator"><img src="https://github-readme-stats.vercel.app/api/pin?username=MItCHeLPL&repo=Simple-Noise-Generator&border_radius=5&bg_color=FFFFFF00&text_color=777777" alt="Simple-Noise-Generator" /></a>
-  <a href="https://github.com/MItCHeLPL/Connecting-Dots"><img src="https://github-readme-stats.vercel.app/api/pin?username=MItCHeLPL&repo=Connecting-Dots&border_radius=5&bg_color=FFFFFF00&text_color=777777" alt="Connecting-Dots" align="right"/></a>
 </p>
