@@ -75,9 +75,9 @@
 </p>
 
 <h2>Statistics</h2>
-<img align="right" width=47% src="stats_transparent.svg" alt="stats" />
+<img align="left" width=47% src="stats_transparent.svg" alt="stats" />
 
-  <img width=47% src="http://github-readme-streak-stats.herokuapp.com?user=mitchelpl&theme=light&hide_border=true&background=FFFFFF00&stroke=777777&currStreakNum=777777&sideNums=777777&currStreakLabel=777777&dates=353535&sideLabels=777777" alt="streak_stats" />
+<img width=47% src="http://github-readme-streak-stats.herokuapp.com?user=mitchelpl&theme=light&hide_border=true&background=FFFFFF00&stroke=777777&currStreakNum=777777&sideNums=777777&currStreakLabel=777777&dates=353535&sideLabels=777777" alt="streak_stats" />
 </p>
 
 <h2 align="left">More Pinned Repositories</h2>
