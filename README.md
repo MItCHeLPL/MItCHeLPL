@@ -8,10 +8,6 @@
 <p>
   <a href="https://www.linkedin.com/in/micha%c5%82-myszor-51a1451b5/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mikemyszor@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://discord.gg/M!tCHeL#8618"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://www.youtube.com/channel/UCDzVuoDMjFwrn7hnCUk8zhA"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://twitter.com/michalmyszor"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href=""><img alt="" src="" /></a>
 </p>
 
 <h2>Skills</h2>
@@ -81,18 +77,8 @@
 <h2>Statistics</h2>
 <img align="right" width=47% src="stats_transparent.svg" alt="stats" />
 
-<p align="left">
-  <img width=47% src="https://github-readme-stats.vercel.app/api/top-langs?username=mitchelpl&langs_count=10&show_icons=true&locale=en&layout=compact&card_width=350&bg_color=FFFFFF00&text_color=777777&hide_border=true&title_color=777777" alt="most_used_lang" />
-
-  <img width=47% src="https://github-readme-stats.vercel.app/api/wakatime?username=MItCHeL&layout=compact&card_width=350&bg_color=FFFFFF00&text_color=777777&hide_border=true&title_color=777777&custom_title=Time%20Spent%20On%20Each%20Language%20In%20Last%207%20Days&langs_count=10" alt="wakatime" />
-
   <img width=47% src="http://github-readme-streak-stats.herokuapp.com?user=mitchelpl&theme=light&hide_border=true&background=FFFFFF00&stroke=777777&currStreakNum=777777&sideNums=777777&currStreakLabel=777777&dates=353535&sideLabels=777777" alt="streak_stats" />
 </p>
-
-<details>
-  <summary align="center">More</summary><br/>
-  <img align="center" src="more_stats_transparent.svg" alt="more stats" width="100%" /> 
-</details>
 
 <h2 align="left">More Pinned Repositories</h2>
 <p>
